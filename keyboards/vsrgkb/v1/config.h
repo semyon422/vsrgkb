@@ -5,7 +5,7 @@
 #define MATRIX_ROWS 4
 #define MATRIX_COLS 5
 
-#define SPLIT_HAND_PIN B6
+#define SPLIT_HAND_PIN F4
 #define SOFT_SERIAL_PIN D1
 
 #define MATRIX_ROW_PINS {D0, B5}
